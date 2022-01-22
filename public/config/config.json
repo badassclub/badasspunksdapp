@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6C9EAfFA3D64673E139139222F92E7431B09F02F",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6c9eaffa3d64673e139139222f92e7431b09f02f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Badass Punks",
+  "SYMBOL": "BPC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/badass-punks-club",
+  "SHOW_BACKGROUND": true
+}
